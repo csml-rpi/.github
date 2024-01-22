@@ -1,6 +1,6 @@
-## 🙋‍♀️ Welcome to the Computational Scientific Machine Learning Lab (CSML) from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
+## 🙋‍♀️ Welcome to the Computational Scientific Machine Learning Lab (CSML) 
 
-
+We are a research group from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
 
 :sunglasses: What’s our mission?
 
