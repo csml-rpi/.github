@@ -1,18 +1,18 @@
 ## 🙋‍♀️ Welcome to the Computational Scientific Machine Learning Lab (CSML) 
 
-We are a research group from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. This website is our base on the internet. 
+We are a research group from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. This website is our base on the internet. For information about what we are doing, please go [here](http://www.shaowupan.com/). 
 
-:sunglasses: What’s our mission?
+:sunglasses: **What’s our mission?**
 
-:white_check_mark: Our mission is to pioneer advanced modeling and simulations in Mechanical and Aerospace Engineering by harnessing the power of scientific machine learning.
+- :white_check_mark: Our mission is to pioneer advanced modeling and simulations in Mechanical and Aerospace Engineering by harnessing the power of scientific machine learning.
 
-:eight_pointed_black_star:What are our interests?
+:eight_pointed_black_star: **What are our interests?**
 
 - Scientific machine learning for large-scale nonlinear systems
 - Operator-theoretic modeling and control of fluid flows
 - Generative AI for physical systems
 
-:biohazard: For internal users:
+:biohazard: **For lab members**
 - Useful tutorials [Discussions](https://github.com/csml-rpi/wiki/discussions) 
 - Shared course resources [Course Resources](https://github.com/csml-rpi/shared-course-materials)
 - Doctor qualifying exam resources [DQE](https://github.com/csml-rpi/wiki/discussions/12)
