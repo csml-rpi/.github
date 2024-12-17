@@ -13,7 +13,7 @@ We are a research group from the Department of Mechanical, Aerospace, and Nuclea
 - Generative AI for physical systems
 
 :biohazard: **For lab members**
-- [Useful tutorials](https://github.com/csml-rpi/wiki/discussions) 
+- [Ph.D. tutorials](https://github.com/csml-rpi/wiki/discussions) 
 - [Shared course resources](https://github.com/csml-rpi/shared-course-materials)
 - [Doctor qualifying exam resources](https://github.com/csml-rpi/wiki/discussions/12)
 - [Group meeting recordings](https://github.com/csml-rpi/wiki/discussions/15)
