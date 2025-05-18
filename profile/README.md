@@ -1,6 +1,6 @@
 ## 🙋‍♀️ Welcome to the Computational Scientific Machine Learning Lab (CSML) 
 
-We are a research group from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. This website is our base on the internet. For information about what we are doing, please go [here](http://www.shaowupan.com/). 
+We are a research group from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. This website is our base on the internet. For information about what we are doing, please go [here](http://pswpswpsw.github.io/). 
 
 :sunglasses: **What’s our mission?**
 
