@@ -13,17 +13,17 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
   - [PIPL'19: Guaranteed Stability](https://arxiv.org/abs/1906.03663)  
   - [LiftRecon'23: Multiple Invariant Sets](https://arxiv.org/abs/2304.11860)
 
-- **Neural Implicit Surrogates** `NIF`  
+- **Neural Implicit Surrogates** 
   Mesh-agnostic implicit fields on complex geometries.  
   - [Neural Implicit Flow'22](https://arxiv.org/abs/2204.03216)  
   - [Geometry Surrogates'21: Discretization-Independent](https://arxiv.org/abs/2109.07018)
 
-- **Turbulence ROM and Closures** `Kolmogorov barrier`  
+- **Turbulence ROM and Closures** 
   Learned closures and high-rank reduced-order models.  
   - [Closure Discovery'18](https://arxiv.org/abs/1803.09318)  
   - [Weighted Hybrid AE'24: Beyond Kolmogorov](https://arxiv.org/abs/2410.18148)
 
-- **Agentic CFD Automation** `Foam-Agent`  
+- **Agentic CFD Automation** 
   OpenFOAM workflows from prompts to executable cases.  
   - [Foam-Agent'25: Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)  
   - [Foam-Agent 2.0'25: End-to-End Composable Framework](https://arxiv.org/abs/2509.18178)
