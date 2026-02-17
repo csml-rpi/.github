@@ -92,7 +92,6 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ### 🤝 Join Us
 We are always looking for passionate Ph.D. students and postdocs interested in SciML and Agentic AI. 
-- **Prospective Students:** Please check our [Application Guide](https://www.shaowupan.com/join-us).
 - **Collaborations:** Open a discussion in any of our repos or reach out via email.
 
 *"Simulating the future, one agent at a time."*
