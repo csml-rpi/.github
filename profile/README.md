@@ -8,25 +8,62 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ### 🧬 Our Core Research Pillars
 
-- **Koopman Dynamics**   
-  Stable Koopman embeddings for nonlinear dynamics.  
-  - [PIPL'19: Guaranteed Stability](https://arxiv.org/abs/1906.03663)  
-  - [LiftRecon'23: Multiple Invariant Sets](https://arxiv.org/abs/2304.11860)
+- **Koopman Dynamics** `K-Stable`  
+  Stable embeddings for dynamics and control.  
+  - **Phase I (2018)** `Long-Horizon`  
+    - [Long-time predictive modeling of nonlinear dynamical systems using neural networks](https://arxiv.org/abs/1805.12547)  
+  - **Phase II (2019–2020)** `Stability + Delay`  
+    - [Physics-Informed Probabilistic Learning of Linear Embeddings of Non-linear Dynamics With Guaranteed Stability](https://arxiv.org/abs/1906.03663)  
+    - [On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems](https://arxiv.org/abs/1902.05198)  
+  - **Phase III (2021)** `Sparse Invariants`  
+    - [Sparsity-promoting algorithms for the discovery of informative Koopman-invariant subspaces](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sparsitypromoting-algorithms-for-the-discovery-of-informative-koopmaninvariant-subspaces/F52F03ED181023369A661EF09B57281A)  
+  - **Phase IV (2024)** `Multi-Attractor + Tooling`  
+    - [On the lifting and reconstruction of nonlinear systems with multiple invariant sets](https://link.springer.com/article/10.1007/s11071-024-09581-0)  
+    - [PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator](https://joss.theoj.org/papers/10.21105/joss.05881)  
+  - **Phase V (2025)** `Robust Control`  
+    - [Learning Noise-Robust Stable Koopman Operator for Control With Hankel DMD](https://arxiv.org/abs/2408.06607)  
 
-- **Neural Implicit Surrogates** 
-  Mesh-agnostic implicit fields on complex geometries.  
-  - [Neural Implicit Flow'22](https://arxiv.org/abs/2204.03216)  
-  - [Geometry Surrogates'21: Discretization-Independent](https://arxiv.org/abs/2109.07018)
+- **Neural Representations** `NIF + OperatorNets`  
+  Mesh-agnostic neural fields and operator surrogates.  
+  - **Phase I (2019)** `CNN Surrogates`  
+    - [Prediction of Aerodynamic Flow Fields Using Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00466-019-01740-0)  
+  - **Phase II (2020)** `Physics-Constrained`  
+    - [Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data](https://arxiv.org/abs/1906.02382)  
+  - **Phase III (2021)** `PINNs + Diagnostics`  
+    - [Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics](https://arxiv.org/abs/2011.04520)  
+    - [Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning](https://link.springer.com/article/10.1186/s42774-021-00087-6)  
+  - **Phase IV (2023)** `Mesh-Agnostic Compression`  
+    - [Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data](https://arxiv.org/abs/2204.03216)  
+  - **Phase V (2024)** `Data-Free PINNs`  
+    - [Grad–Shafranov equilibria via data-free physics informed neural networks](https://arxiv.org/abs/2311.13491)  
+  - **Phase VI (2025–2026)** `Nuclear Operator Learning`  
+    - [Surrogate modeling of heat transfer using Fourier Basis-DeepONet with uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S0149197025002938)  
+    - [Characterization of DeepONet Performance for Neutron Transport Modeling](https://doi.org/10.1080/00295639.2025.2586955)  
 
-- **Turbulence ROM and Closures** 
-  Learned closures and high-rank reduced-order models.  
-  - [Closure Discovery'18](https://arxiv.org/abs/1803.09318)  
-  - [Weighted Hybrid AE'24: Beyond Kolmogorov](https://arxiv.org/abs/2410.18148)
+- **Turbulence ROM and Closures** `Kolmogorov+`  
+  Turbulence closures and high-rank reduced models.  
+  - **Phase I (2014–2015)** `High-Speed CFD`  
+    - [Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge](https://pubs.aip.org/aip/acp/article-pdf/1628/1/185/11675955/185_1_online.pdf)  
+    - [Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers](https://doi.org/10.2514/1.J053585)  
+    - [An extended CFD model to predict the pumping curve in low pressure plasma etch chamber](https://pubs.aip.org/aip/acp/article-pdf/1628/1/1378/11675825/1378_1_online.pdf)  
+  - **Phase II (2017)** `Shock–TBL + Model Augmentation`  
+    - [Characterizing and improving predictive accuracy in shock-turbulent boundary layer interactions using data-driven models](https://doi.org/10.2514/6.2017-0314)  
+    - [Augmentation of turbulence models using field inversion and machine learning](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143032/6.2017-0993.pdf?sequence=1)  
+    - [The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1)  
+  - **Phase III (2018)** `Data-Driven Closures`  
+    - [Data-driven Discovery of Closure Models](https://arxiv.org/abs/1803.09318)  
+  - **Phase IV (2025)** `Beyond Low-Rank`  
+    - [Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](https://arxiv.org/abs/2410.18148)  
 
-- **Agentic CFD Automation** 
-  OpenFOAM workflows from prompts to executable cases.  
-  - [Foam-Agent'25: Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)  
-  - [Foam-Agent 2.0'25: End-to-End Composable Framework](https://arxiv.org/abs/2509.18178)
+- **Agentic CFD Automation** `Foam-Agent`  
+  Agentic tools for OpenFOAM automation and data.  
+  - **Phase I (2025)** `Agents`  
+    - [Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)  
+    - [FoamGPT: Fine-Tuning Large Language Model for Agentic Automation of CFD Simulations with OpenFOAM](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_271.pdf)  
+  - **Phase II (2025)** `Tooling + Datasets`  
+    - [Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941)  
+    - [UniFoil: A Universal Dataset of Airfoils in Transitional and Turbulent Regimes](https://arxiv.org/abs/2505.21124)  
+
 
 ### 🛠 Tech Stack & Tools
 
