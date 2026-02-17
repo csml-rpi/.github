@@ -50,7 +50,6 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
   - **Phase III (2017)** `ML turbulence modeling`  
     - [Characterizing and improving predictive accuracy in shock-turbulent boundary layer interactions using data-driven models](https://doi.org/10.2514/6.2017-0314)  
     - [Augmentation of turbulence models using field inversion and machine learning](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143032/6.2017-0993.pdf?sequence=1)  
-     
   - **Phase IV (2018)** `Data-Driven Closures`  
     - [Data-driven Discovery of Closure Models](https://arxiv.org/abs/1803.09318)  
   - **Phase V (2025)** `A Near-Optimal Low-Rank Representation`  
