@@ -45,10 +45,12 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
     - [Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge](https://pubs.aip.org/aip/acp/article-pdf/1628/1/185/11675955/185_1_online.pdf)  
     - [Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers](https://doi.org/10.2514/1.J053585)  
     - [An extended CFD model to predict the pumping curve in low pressure plasma etch chamber](https://pubs.aip.org/aip/acp/article-pdf/1628/1/1378/11675825/1378_1_online.pdf)  
+  - **Phase II (2016)** `Compressible Turbulence`
+    - [The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1) 
   - **Phase II (2017)** `ML turbulence modeling`  
     - [Characterizing and improving predictive accuracy in shock-turbulent boundary layer interactions using data-driven models](https://doi.org/10.2514/6.2017-0314)  
     - [Augmentation of turbulence models using field inversion and machine learning](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143032/6.2017-0993.pdf?sequence=1)  
-    - [The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1)  
+     
   - **Phase III (2018)** `Data-Driven Closures`  
     - [Data-driven Discovery of Closure Models](https://arxiv.org/abs/1803.09318)  
   - **Phase IV (2025)** `A Near-Optimal Low-Rank Representation`  
