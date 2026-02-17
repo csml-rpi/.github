@@ -8,15 +8,25 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ### 🧬 Our Core Research Pillars
 
-* **Agentic AI for Physics:** Developing LLM-based agents (e.g., **Foam-Agent**) to automate complex CFD workflows and scientific discovery. 
-  * *See our work:* [CFDLLMBench (2025)](https://github.com/csml-rpi/cfd-llm-bench)
-* **Next-Gen ROM:** Breaking the Kolmogorov Barrier with Learnable Hybrid Autoencoders and manifold learning. 
-  * *Key Paper:* [Beyond the Kolmogorov Barrier (2025)](https://arxiv.org/abs/2501.00000) | [Neural Implicit Flow (2022)](https://arxiv.org/abs/2209.00000)
-* **Koopman Theory:** Advancing data-driven linear representations of nonlinear dynamics for robust control. 
-  * *Software:* [PyKoopman (JOSS)](https://joss.theoj.org/papers/10.21105/joss.00000)
-* **SciML Benchmarking:** Setting the standard for AI performance in physical sciences.
-  * *New:* [FoamAgent: Large Language Models for OpenFOAM](https://github.com/csml-rpi/foam-agent)
----
+- **Koopman Dynamics**   
+  Stable Koopman embeddings for nonlinear dynamics.  
+  - [PIPL'19: Guaranteed Stability](https://arxiv.org/abs/1906.03663)  
+  - [LiftRecon'23: Multiple Invariant Sets](https://arxiv.org/abs/2304.11860)
+
+- **Neural Implicit Surrogates** `NIF`  
+  Mesh-agnostic implicit fields on complex geometries.  
+  - [Neural Implicit Flow'22](https://arxiv.org/abs/2204.03216)  
+  - [Geometry Surrogates'21: Discretization-Independent](https://arxiv.org/abs/2109.07018)
+
+- **Turbulence ROM and Closures** `Kolmogorov barrier`  
+  Learned closures and high-rank reduced-order models.  
+  - [Closure Discovery'18](https://arxiv.org/abs/1803.09318)  
+  - [Weighted Hybrid AE'24: Beyond Kolmogorov](https://arxiv.org/abs/2410.18148)
+
+- **Agentic CFD Automation** `Foam-Agent`  
+  OpenFOAM workflows from prompts to executable cases.  
+  - [Foam-Agent'25: Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)  
+  - [Foam-Agent 2.0'25: End-to-End Composable Framework](https://arxiv.org/abs/2509.18178)
 
 ### 🛠 Tech Stack & Tools
 
