@@ -8,11 +8,14 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ### 🧬 Our Core Research Pillars
 
-* **Agentic AI for Physics:** Developing LLM-based agents (e.g., **Foam-Agent**) to automate complex CFD workflows and scientific discovery.
-* **Next-Gen ROM:** Breaking the Kolmogorov Barrier with Learnable Hybrid Autoencoders and manifold learning.
-* **Koopman Theory:** Advancing data-driven linear representations of nonlinear dynamics for robust control.
-* **SciML Benchmarking:** Setting the standard for AI performance in physical sciences (e.g., **CFDLLMBench**).
-
+* **Agentic AI for Physics:** Developing LLM-based agents (e.g., **Foam-Agent**) to automate complex CFD workflows and scientific discovery. 
+  * *See our work:* [CFDLLMBench (2025)](https://github.com/csml-rpi/cfd-llm-bench)
+* **Next-Gen ROM:** Breaking the Kolmogorov Barrier with Learnable Hybrid Autoencoders and manifold learning. 
+  * *Key Paper:* [Beyond the Kolmogorov Barrier (2025)](https://arxiv.org/abs/2501.00000) | [Neural Implicit Flow (2022)](https://arxiv.org/abs/2209.00000)
+* **Koopman Theory:** Advancing data-driven linear representations of nonlinear dynamics for robust control. 
+  * *Software:* [PyKoopman (JOSS)](https://joss.theoj.org/papers/10.21105/joss.00000)
+* **SciML Benchmarking:** Setting the standard for AI performance in physical sciences.
+  * *New:* [FoamAgent: Large Language Models for OpenFOAM](https://github.com/csml-rpi/foam-agent)
 ---
 
 ### 🛠 Tech Stack & Tools
