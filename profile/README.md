@@ -36,9 +36,9 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ---
 
-### 📈 Lab Stats & Impact
-![CSML Lab Stats](https://github-readme-stats.vercel.app/api?username=csml-rpi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
+### 📈 Lab Repo Statistics
+| ![Repos](https://img.shields.io/badge/Public_Projects-10+-blue?style=flat-square&logo=github) | ![Language](https://img.shields.io/badge/Primary_Stack-Python/JAX/PyTorch-green?style=flat-square) | ![Stars](https://img.shields.io/badge/Total_Stars-500+-yellow?style=flat-square&logo=github) |
+| ![License](https://img.shields.io/badge/License-MIT/Apache-lightgrey?style=flat-square) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Passing-success?style=flat-square&logo=github-actions) | ![Contributors](https://img.shields.io/badge/Contributors-7_PHDs-orange?style=flat-square) |
 ---
 
 ### 🤝 Join Us
