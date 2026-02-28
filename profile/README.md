@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechnic Institute (RPI). We reside at the intersection of **Physics-Informed AI**, **Data-Driven Dynamical Systems**, and **Autonomous AI Scientist**.
 
-[🌐 Lab Website](https://www.shaowupan.com) | [📧 Contact](mailto:pans2@rpi.edu) | [📍 RPI MANE](https://mane.rpi.edu/)
+[🌐 Lab Website](https://www.shaowupan.com) | [📧 Contact](mailto:pans2@rpi.edu) | [📍 RPI MANE](https://mane.rpi.edu/) | [:no_entry_sign: Lab Member Access](https://github.com/csml-rpi/wiki)
 
 ---
 
