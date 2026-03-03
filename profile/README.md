@@ -1,4 +1,4 @@
-# CSML RPI: Computational Scientific Machine Learning Lab 🚀
+# Computational Scientific Machine Learning Lab 🚀
 
 Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechnic Institute (RPI). We reside at the intersection of **Physics-Informed AI**, **Data-Driven Dynamical Systems**, and **Autonomous AI Scientist**.
 
