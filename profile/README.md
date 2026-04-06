@@ -1,6 +1,6 @@
 # Computational Scientific Machine Learning Lab 🚀
 
-Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechnic Institute (RPI). We reside at the intersection of **Physics-Informed AI**, **Data-Driven Dynamical Systems**, and **Autonomous AI Scientist**.
+Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechnic Institute (RPI). Our goal is to push the frontier of **Scientific AI in Aerospace Engineering**. We reside at the intersection of **Physics-Informed AI**, **Data-Driven Dynamical Systems**, **Agentic AI**, and **Computational Fluid Dynamics**.
 
 [🌐 Lab Website](https://www.shaowupan.com) | [📧 Contact](mailto:pans2@rpi.edu) | [📍 RPI MANE](https://mane.rpi.edu/) | [:no_entry_sign: Lab Member Access](https://github.com/csml-rpi/wiki)
 
