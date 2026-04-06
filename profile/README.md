@@ -8,7 +8,7 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 ### 🧬 Our Core Research Pillars
 
-- **Koopman Dynamics** `Koopman-Stable`  
+- **Machine Learning for Dynamical Systems / Koopman Operator / Data-Driven Control**  
   Stable embeddings for dynamics and control.  
   - **Phase I (2018)** `Long-Horizon + Jacobian Regularization`  
     - [Long-time predictive modeling of nonlinear dynamical systems using neural networks](https://arxiv.org/abs/1805.12547)  
@@ -23,7 +23,7 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
   - **Phase V (2025)** `Noise-Robust Koopman and Control`  
     - [Learning Noise-Robust Stable Koopman Operator for Control With Hankel DMD](https://arxiv.org/abs/2408.06607)  
 
-- **Neural Representations** `Operator Learning`  
+- **AI for PDE**
   Mesh-agnostic neural fields and operator surrogates.  
   - **Phase I (2019)** `CNN Surrogates`  
     - [Prediction of Aerodynamic Flow Fields Using Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00466-019-01740-0)  
@@ -39,7 +39,7 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
     - [Surrogate modeling of heat transfer using Fourier Basis-DeepONet with uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S0149197025002938)  
     - [Characterization of DeepONet Performance for Neutron Transport Modeling](https://doi.org/10.1080/00295639.2025.2586955)  
 
-- **CFD and ROMs**   
+- **CFD, Turbulence, Closures, Reduced-Order Models**   
   Turbulence closures and high-rank reduced models.  
   - **Phase I (2014–2015)** `High-Speed CFD / Rarefied Gas`  
     - [Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge](https://pubs.aip.org/aip/acp/article-pdf/1628/1/185/11675955/185_1_online.pdf)  
@@ -55,7 +55,7 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
   - **Phase V (2025)** `A Near-Optimal Low-Rank Representation`  
     - [Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](https://arxiv.org/abs/2410.18148)  
 
-- **Agentic CFD Automation** `Foam-Agent`  
+- **Agentic AI** `Foam-Agent`  
   Agentic tools for OpenFOAM automation and data.  
   - **Phase I (2025)** `Agents for CFD`  
     - [Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)  
