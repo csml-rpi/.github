@@ -41,7 +41,7 @@ Welcome to the official GitHub home of the **CSML Lab** at Rensselaer Polytechni
 
 - **CFD and ROMs**   
   Turbulence closures and high-rank reduced models.  
-  - **Phase I (2014–2015)** `High-Speed CFD`  
+  - **Phase I (2014–2015)** `High-Speed CFD / Rarefied Gas`  
     - [Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge](https://pubs.aip.org/aip/acp/article-pdf/1628/1/185/11675955/185_1_online.pdf)  
     - [Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers](https://doi.org/10.2514/1.J053585)  
     - [An extended CFD model to predict the pumping curve in low pressure plasma etch chamber](https://pubs.aip.org/aip/acp/article-pdf/1628/1/1378/11675825/1378_1_online.pdf)  
